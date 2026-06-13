@@ -2,6 +2,10 @@
 
 EchoGuard is an advanced AI-powered women safety analytics platform developed by **Stalwart**. The system combines Computer Vision, Real-Time Monitoring, SOS Gesture Recognition, Emotion Analysis, Gender Analytics, Threat Assessment, and Activity Heatmaps to provide intelligent situational awareness and proactive safety monitoring.
 
+🚀 Live Demo
+
+https://echoguardbystalwart.netlify.app/
+
 ✨ Key Features
 
 * 🎥 Real-Time Camera Monitoring
@@ -25,9 +29,7 @@ EchoGuard is an advanced AI-powered women safety analytics platform developed by
 * Computer Vision
 * AI Analytics
 
-🚀 Live Demo
 
-https://echoguardbystalwart.netlify.app/
 
 🏢 Developed By
 
